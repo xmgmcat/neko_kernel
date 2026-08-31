@@ -1,2 +1,4 @@
 # neko_kernel
-红米note9 pro 5g 内核kernel_4.19.272集成Droidspaces，KernelSU，基于https://github.com/Molyuu/neko_kernel_xiaomi_gauguin内核修改编译
+红米note9 pro 5g 内核kernel_4.19.272集成Droidspaces，KernelSU，基于https://github.com/Molyuu/neko_kernel_xiaomi_gauguin
+
+内核修改编译
